@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0808ce65-34a7-45b2-bbb2-4a660f2b4d59" name="vshah" url="http://vshah.scweb.ca">
+        <fileTransfer rootFolder="/home/vshah" accessType="SFTP" host="php.scweb.ca" port="22" sshConfigId="60250c3b-146a-4793-a009-45caf91f298b" sshConfig="vshah@php.scweb.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
